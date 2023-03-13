@@ -24,7 +24,7 @@
    - Los comentarios ayudan a entender el código.
    - La app debe tener un selector de idioma para verse al menos en español e inglés.
 
-# how run de app
+# how run app
 
 1. instalar los paquetes con el PMS de tu preferencia, debe tener instalado Node
 2. correr en la terminar, ubicado en el directorio del proyecto npm run dev
