@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "Mes": "5-2020",
+            "Nombre": "Juan Pérez",
+            "ID": 2345234523,
+            "FechaIngreso": "01\/04\/2019",
+            "SueldoBruto": 1200000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Digital",
+            "IDLider": 324532,
+            "Seniority": "Manager"
+        },
+        {
+            "Mes": "5-2020",
+            "Nombre": "Rodrigo Soto",
+            "ID": 7345734643,
+            "FechaIngreso": "01\/10\/2019",
+            "SueldoBruto": 900000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Editorial",
+            "IDLider": 2345234523,
+            "Seniority": "Supervisor"
+        },
+        {
+            "Mes": "5-2020",
+            "Nombre": "Jaime González",
+            "ID": 3423424653,
+            "FechaIngreso": "11\/04\/2020",
+            "SueldoBruto": 800000,
+            "División": "Ventas",
+            "Area": "Regional",
+            "Subarea": "Regional",
+            "IDLider": 7345734643,
+            "Seniority": "Profesioal"
+        },
+        {
+            "Mes": "5-2020",
+            "Nombre": "Pedro Suárez",
+            "ID": 4564356543,
+            "FechaIngreso": "15\/10\/2019",
+            "SueldoBruto": 500000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 3456345336,
+            "Seniority": "Profesional"
+        },
+        {
+            "Mes": "5-2020",
+            "Nombre": "Jorge Jiménez",
+            "ID": 3456345336,
+            "FechaIngreso": "15\/01\/2020",
+            "SueldoBruto": 1000000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 2345234523,
+            "Seniority": "Cordinador"
+        },
+        {
+            "Mes": "4-2020",
+            "Nombre": "Juan Pérez",
+            "ID": 2345234523,
+            "FechaIngreso": "01\/04\/2019",
+            "SueldoBruto": 1200000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Digital",
+            "IDLider": 324532,
+            "Seniority": "Manager"
+        },
+        {
+            "Mes": "4-2020",
+            "Nombre": "Rodrigo Soto",
+            "ID": 7345734643,
+            "FechaIngreso": "01\/10\/2019",
+            "SueldoBruto": 800000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Editorial",
+            "IDLider": 3456345336,
+            "Seniority": "Profesional"
+        },
+        {
+            "Mes": "4-2020",
+            "Nombre": "Jaime González",
+            "ID": 3423424653,
+            "FechaIngreso": "11\/04\/2020",
+            "SueldoBruto": 700000,
+            "División": "Ventas",
+            "Area": "Regional",
+            "Subarea": "Regional",
+            "IDLider": 3456345336,
+            "Seniority": "Profesioal"
+        },
+        {
+            "Mes": "4-2020",
+            "Nombre": "Pedro Suárez",
+            "ID": 4564356543,
+            "FechaIngreso": "15\/10\/2019",
+            "SueldoBruto": 500000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 3456345336,
+            "Seniority": "Profesional"
+        },
+        {
+            "Mes": "4-2020",
+            "Nombre": "Jorge Jiménez",
+            "ID": 3456345336,
+            "FechaIngreso": "15\/01\/2020",
+            "SueldoBruto": 800000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 2345234523,
+            "Seniority": "Cordinador"
+        },
+        {
+            "Mes": "3-2020",
+            "Nombre": "Juan Pérez",
+            "ID": 2345234523,
+            "FechaIngreso": "01\/04\/2019",
+            "SueldoBruto": 1000000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Digital",
+            "IDLider": 324532,
+            "Seniority": "Manager"
+        },
+        {
+            "Mes": "3-2020",
+            "Nombre": "Rodrigo Soto",
+            "ID": 7345734643,
+            "FechaIngreso": "01\/10\/2019",
+            "SueldoBruto": 800000,
+            "División": "Ventas",
+            "Area": "Marketing",
+            "Subarea": "Editorial",
+            "IDLider": 3456345336,
+            "Seniority": "Profesional"
+        },
+        {
+            "Mes": "3-2020",
+            "Nombre": "Pedro Suárez",
+            "ID": 4564356543,
+            "FechaIngreso": "15\/10\/2019",
+            "SueldoBruto": 500000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 3456345336,
+            "Seniority": "Profesional"
+        },
+        {
+            "Mes": "3-2020",
+            "Nombre": "Jorge Jiménez",
+            "ID": 3456345336,
+            "FechaIngreso": "15\/01\/2020",
+            "SueldoBruto": 800000,
+            "División": "Operaciones",
+            "Area": "Soporte",
+            "Subarea": "Clientes",
+            "IDLider": 2345234523,
+            "Seniority": "Cordinador"
+        }
+    ]
+}
